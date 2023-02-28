@@ -1,0 +1,11 @@
+{
+    "type": "service_account",
+    "project_id": "pokedex-chatbot",
+    "private_key_id": "PRIVATE_KEY",
+    "private_key": "-----BEGIN PRIVATE KEY-----NOT_YOUR_WORK-----END PRIVATE KEY-----\n",
+    "client_email": "API_EMAIL",
+    "client_id": "102400410269504140298",
+    "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+    "token_uri": "https://oauth2.googleapis.com/token",
+    "auth_provider_x509_cert_url": "NOT_YOUR_DATA"
+  }
