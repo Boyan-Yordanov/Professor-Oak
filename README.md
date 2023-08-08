@@ -31,9 +31,6 @@ We created a SQLite database to store all the 1st generation Pokemon sorted by t
 
 <h3 align="center">Contributors</h3>
 Boyan Yordanov,
-
 Meldas Jaskelevicius,
-
 Alexandru Ivascu,
-
 Yumer Ilanski
