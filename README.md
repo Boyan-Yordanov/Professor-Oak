@@ -30,7 +30,10 @@ Professor Oak utilizes two APIs to gather information about Pokemon:
 We created a SQLite database to store all the 1st generation Pokemon sorted by type and power. This allows users to easily search for Pokemon by type and power level. To access the database, users can simply type "!database" followed by the type or power level they are searching for.
 
 <h3 align="center">Contributors</h3>
-Boyan Yordanov
-Meldas Jaskelevicius
-Alexandru Ivascu
+Boyan Yordanov,
+
+Meldas Jaskelevicius,
+
+Alexandru Ivascu,
+
 Yumer Ilanski
